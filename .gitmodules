@@ -1,0 +1,9 @@
+[submodule "bookstore"]
+	path = bookstore
+	url = https://github.com/DiegoSalas27/bookstore.git
+[submodule "admin-dashboard"]
+	path = admin-dashboard
+	url = https://github.com/DiegoSalas27/admin-dashboard.git
+[submodule "store-front"]
+	path = store-front
+	url = https://github.com/DiegoSalas27/store-front.git
