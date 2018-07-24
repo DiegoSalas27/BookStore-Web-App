@@ -11,4 +11,4 @@ how to deploy the web site:
 5.- run the Spring Boot project.
 6.- git bash in the store-front root folder and run the "ng serve --port 4201" command.
 
-At this point you shouls be able deploy the web application.
+At this point you should be able deploy the web application.
