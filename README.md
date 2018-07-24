@@ -1,6 +1,6 @@
 # BookStore-Web-App
 
-This is a web application maded using Angular as front-end framework, Spring Boot as backend and Redis as the DBMS to back HttpSessions.
+This is a web application made using Angular as front-end framework, Spring Boot as backend and Redis as the DBMS to back HttpSessions.
 
 how to deploy the web site:
 
